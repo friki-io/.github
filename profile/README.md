@@ -12,4 +12,5 @@ These constant interruptions have sparked a new mission in Friki’s bright mind
 
 ## Our Mission 
 
-Make the world a brighter place by helping with tips and tools that can be used to reduce on-call rotation. 
+Make the world a brighter place by providing tips and tools that can help reduce the number of alerts during on-call rotations.
+
